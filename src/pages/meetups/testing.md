@@ -3,14 +3,13 @@ templateKey: meetup
 title: Testing
 date: 2019-01-28T18:11:59.892Z
 presenters:
-  - links:
-      - {}
   - name: Me
-    presentationTitle: Me
+    presentationTitle: Get Good
+    text: 'Yeo '
 location:
-  mapsLatitude: 23
+  mapsLatitude: 40.6603171
   mapsLink: Good
-  mapsLongitude: 17
+  mapsLongitude: -40.6603171
   name: 'Get '
 ---
 
